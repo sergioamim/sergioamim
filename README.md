@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developer with +20 yers experience.
 Currently code languages: Java, Golang, Javascript, Typescript
 
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergioamim&theme=dracula" alt="sergioamim" height="158"/>
 
 How to find me:
 
