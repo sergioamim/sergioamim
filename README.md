@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sergioamim 40 years old, Brazilian, fan of Flamengo soccer team.
-- 👀 I’m interested in Software Developer with +20 yers experience.
+- 👋 Hi, I’m @sergioamim 42 years old, Brazilian.
+- 👀 I’m interested in Software Developer with +24 yers experience.
 Currently code languages: Java, Golang, Javascript, Typescript
 
 How to find me:
